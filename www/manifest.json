@@ -1,0 +1,26 @@
+{
+  "name": "Task Master Pro",
+  "short_name": "TaskMasterPro",
+  "description": "Advanced productivity and task management application with project tracking and team collaboration",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4A90E2",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "categories": [
+    "productivity"
+  ],
+  "lang": "en"
+}
